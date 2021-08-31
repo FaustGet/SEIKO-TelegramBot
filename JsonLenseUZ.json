@@ -1,0 +1,472 @@
+{
+  "Линзалар ҳақида маълумот": {
+    "message": "",
+    "value": {
+      "Seiko кўзойнак линзалари": {
+        "message": "",
+        "value": {
+
+          "Монофокал линзалар Seiko": {
+            "message": "",
+            "value": {
+              "Монофокал линзалар SEIKO I XCEED": {
+                "message": "https://telegra.ph/SEIKO-I-XCEED-06-24",
+                "value": {
+                  "SEIKO I XCEED 1.74": "https://telegra.ph/SEIKO-I-XCEED-174-06-24",
+                  "SEIKO I XCEED 1.67": "https://telegra.ph/SEIKO-I-XCEED-167-06-24",
+                  "SEIKO I XCEED 1.67 SENSITY™": "https://telegra.ph/SEIKO-I-XCEED-167-SENSITY-06-24",
+                  "SEIKO I XCEED 1.67 Polarthin™": "https://telegra.ph/SEIKO-I-XCEED-167-POLARTHIN-06-24",
+                  "SEIKO I XCEED 1.60": " https://telegra.ph/SEIKO-I-XCEED-160-06-24",
+                  "SEIKO I XCEED 1.60 SENSITY™": "https://telegra.ph/SEIKO-I-XCEED-160-SENSITY-06-24",
+                  "SEIKO I XCEED 1.60 Polarthin™": "https://telegra.ph/SEIKO-I-XCEED-160-POLARTHIN-06-24",
+                  "SEIKO I XCEED 1.50": "https://telegra.ph/SEIKO-I-XCEED-150-06-24",
+                  "SEIKO I XCEED 1.50 SENSITY™": "https://telegra.ph/SEIKO-I-XCEED-150-SENSITY-06-24",
+                  "SEIKO I XCEED 1.50 POLARIZED™": "https://telegra.ph/SEIKO-I-XCEED-150-POLARIZED-06-24",
+                  "Монофокал линзаларга қайтиш": "Монофокал линзалар Seiko",
+                  "Бош менюга қайтиш":"Бош менюга ўтиш"
+                }
+              },
+              "Биасфeрик линзалар SEIKO A-ZONE": {
+                "message": "https://telegra.ph/SEIKO-A-ZONE-06-17",
+                "value": {
+                  "SEIKO A-ZONE 1.74": "https://telegra.ph/SEIKO-A-ZONE-174-06-16",
+                  "SEIKO A-ZONE 1.74 BASE 5 / 3": "https://telegra.ph/SEIKO-A-ZONE-174-BASE-5--3-06-16",
+                  "SEIKO A-ZONE 1.67": "https://telegra.ph/SEIKO-A-ZONE-167-06-16",
+                  "SEIKO A-ZONE 1.67 BASE 5 / 3": "https://telegra.ph/SEIKO-A-ZONE-167-BASE-5--3-06-16",
+                  "SEIKO A-ZONE 1.67 SENSITY™": "https://telegra.ph/SEIKO-A-ZONE-167-SENSITY-06-16",
+                  "SEIKO A-ZONE 1.67 BASE 5 / 3 SENSITY™": "https://telegra.ph/SEIKO-A-ZONE-167-BASE-5--3-SENSITY-06-16",
+                  "SEIKO A-ZONE 1.60": "https://telegra.ph/SEIKO-A-ZONE-160-06-16",
+                  "SEIKO A-ZONE 1.60 BASE 5 / 3": "https://telegra.ph/SEIKO-A-ZONE-160-BASE-5--3-06-16",
+                  "SEIKO A-ZONE 1.60 SENSITY™": "https://telegra.ph/SEIKO-A-ZONE-160-SENSITY-06-16",
+                  "SEIKO A-ZONE 1.60 BASE 5 / 3 SENSITY™": "https://telegra.ph/SEIKO-A-ZONE-160-BASE-5--3-SENSITY-06-16",
+                  "Монофокал линзаларга қайтиш": "Монофокал линзалар Seiko",
+                  "Бош менюга қайтиш":"Бош менюга ўтиш"
+                }
+              },
+              "Биасфeрик линзалар SEIKO AZ": {
+                "message": "https://telegra.ph/SEIKO-AZ-06-17",
+                "value": {
+                  "SEIKO AZ 1.74": " https://telegra.ph/SEIKO-AZ-174-06-16",
+                  "SEIKO AZ 1.67": " https://telegra.ph/SEIKO-AZ-167-06-16",
+                  "SEIKO AZ 1.67 SENSITY™": " https://telegra.ph/SEIKO-AZ-167-SENSITY-06-16",
+                  "SEIKO AZ 1.60": " https://telegra.ph/SEIKO-AZ-160-06-16",
+                  "SEIKO AZ 1.60 SENSITY™": "https://telegra.ph/SEIKO-AZ-160-SENSITY-06-16",
+                  "Монофокал линзаларга қайтиш": "Монофокал линзалар Seiko",
+                  "Бош менюга қайтиш":"Бош менюга ўтиш"
+                }
+              },
+              "Асфeрик линзалар SEIKO AS": {
+                "message": "https://telegra.ph/SEIKO-AS-06-17",
+                "value": {
+                  "SEIKO 1.74 AS": "https://telegra.ph/SEIKO-174-AS-06-16",
+                  "SEIKO 1.67 AS": "https://telegra.ph/SEIKO-167-AS-06-16",
+                  "SEIKO 1.67 AS SENSITY™": "https://telegra.ph/SEIKO-167-AS-SENSITY-06-16",
+                  "SEIKO 1.60 AS": "https://telegra.ph/SEIKO-AZ-160-06-16",
+                  "SEIKO 1.60 AS SENSITY™": "https://telegra.ph/SEIKO-160-AS-SENSITY-06-16",
+                  "SEIKO 1.57 AS": "https://telegra.ph/SEIKO-157-AS-06-16",
+                  "Монофокал линзаларга қайтиш": "Монофокал линзалар Seiko",
+                  "Бош менюга қайтиш":"Бош менюга ўтиш"
+                }
+              },
+              "Сфeрик линзалар SEIKO": {
+                "message": "https://telegra.ph/SEIKO-SFERIK-LINZALARI-06-17",
+                "value": {
+                  "SEIKO 1.74": "https://telegra.ph/SEIKO-174-06-16",
+                  "SEIKO 1.67": "https://telegra.ph/SEIKO-167-06-16",
+                  "SEIKO 1.67 SENSITY™": " https://telegra.ph/SEIKO-167-SENSITY-06-16",
+                  "SEIKO 1.67 POLARTHIN": "https://telegra.ph/SEIKO-167-POLARTHIN-06-16",
+                  "SEIKO TRIBRID™": " https://telegra.ph/SEIKO-TRIBRID-06-16",
+                  "SEIKO 1.60": " https://telegra.ph/SEIKO-160-06-16",
+                  "SEIKO 1.60 SENSITY™": " https://telegra.ph/SEIKO-160-SENSITY-06-16",
+                  "SEIKO 1.60 POLARTHIN": " https://telegra.ph/SEIKO-160-POLARTHIN-06-16",
+                  "SEIKO 1.50": " https://telegra.ph/SEIKO-150-06-16",
+                  "SEIKO 1.50 SENSITY™": " https://telegra.ph/SEIKO-150-SENSITY-06-16",
+                  "SEIKO 1.50 POLARIZED": "https://telegra.ph/SEIKO-150-POLARIZED-06-16",
+                  "Монофокал линзаларга қайтиш": "Монофокал линзалар Seiko",
+                  "Бош менюга қайтиш":"Бош менюга ўтиш"
+                }
+              },
+              "Асферик линзалар SEIKO SMARTZOOM & SMARTZOOM Xceed": {
+                "message": "https://telegra.ph/SEIKO-SMARTZOOM--SMARTZOOM-XCEED-06-24",
+                "value": {
+                  "SEIKO SMARTZOOM & SMARTZOOM Xceed 1.74": "https://telegra.ph/SEIKO-SMARTZOOM-XCEED--SMARTZOOM-174-06-24",
+                  "SEIKO SMARTZOOM & SMARTZOOM Xceed 1.67": "https://telegra.ph/SEIKO-SMARTZOOM-XCEED--SMARTZOOM-167-06-24",
+                  "SEIKO SMARTZOOM & SMARTZOOM Xceed 1.67 SENSITY™": " https://telegra.ph/SEIKO-SMARTZOOM-XCEED--SMARTZOOM-167-SENSITY-06-24",
+                  "SEIKO SMARTZOOM & SMARTZOOM Xceed 1.67 PolarThin": "https://telegra.ph/SEIKO-SMARTZOOM-XCEED--SMARTZOOM-167-POLARTHIN-06-24",
+                  "SEIKO SMARTZOOM & SMARTZOOM Xceed 1.60": " https://telegra.ph/SEIKO-SMARTZOOM-XCEED--SMARTZOOM-160-06-24",
+                  "SEIKO SMARTZOOM & SMARTZOOM Xceed 1.60 SENSITY™": " https://telegra.ph/SEIKO-SMARTZOOM-XCEED--SMARTZOOM-160-SENSITY-06-24",
+                  "SEIKO SMARTZOOM & SMARTZOOM Xceed 1.60 PolarThin": " https://telegra.ph/SEIKO-SMARTZOOM-XCEED--SMARTZOOM-160-POLARTHIN-06-24",
+                  "SEIKO SMARTZOOM & SMARTZOOM Xceed 1.50": " https://telegra.ph/SEIKO-SMARTZOOM-XCEED--SMARTZOOM-150-06-24",
+                  "SEIKO SMARTZOOM & SMARTZOOM Xceed 1.50 SENSITY™": " https://telegra.ph/SEIKO-SMARTZOOM-XCEED--SMARTZOOM-150-SENSITY-06-24",
+                  "SEIKO SMARTZOOM & SMARTZOOM Xceed 1.50 Polarized": " https://telegra.ph/SEIKO-SMARTZOOM-XCEED--SMARTZOOM-150-POLARIZED-06-24",
+                  "Монофокал линзаларга қайтиш": "Монофокал линзалар Seiko",
+                  "Бош менюга қайтиш":"Бош менюга ўтиш"
+                }
+              },
+              "Ҳайдовчилик учун  линзалар SEIKO DRIVE": {
+                "message": "https://telegra.ph/SEIKO-DRIVE-06-17",
+                "value": {
+                  "SEIKO DRIVE 1.60": "https://telegra.ph/SEIKO-DRIVE-160-06-16",
+                  "SEIKO DRIVE 1.60 SENSITY™": " https://telegra.ph/SEIKO-DRIVE-160-SENSITY-06-16",
+                  "SEIKO DRIVE 1.60 POLARTHIN": "https://telegra.ph/SEIKO-DRIVE-160-POLARTHIN-06-16",
+                  "SEIKO DRIVE 1.50": " https://telegra.ph/SEIKO-DRIVE-150-06-16",
+                  "SEIKO DRIVE 1.50 SENSITY™": "https://telegra.ph/SEIKO-DRIVE-150-SENSITY-06-16",
+                  "SEIKO DRIVE 1.50 POLARIZED": " https://telegra.ph/SEIKO-DRIVE-150-POLARIZED-06-16",
+                  "Монофокал линзаларга қайтиш": "Монофокал линзалар Seiko",
+                  "Бош менюга қайтиш":"Бош менюга ўтиш"
+                }
+              },
+              "Спортга мўлжалланган линзалар SEIKO CURVED": {
+                "message": "https://telegra.ph/SEIKO-CURVED-06-17",
+                "value": {
+                  "SEIKO CURVED 1.60": "https://telegra.ph/SEIKO-CURVED-160-06-16",
+                  "SEIKO CURVED 1.60 SENSITY™": "https://telegra.ph/SEIKO-CURVED-160-SENSITY-06-16",
+                  "SEIKO CURVED 1.60 POLARIZED": " https://telegra.ph/SEIKO-CURVED-160-POLARIZED-06-16",
+                  "SEIKO CURVED 1.50": "https://telegra.ph/SEIKO-CURVED-150-06-16",
+                  "SEIKO CURVED 1.50 SENSITY™": "https://telegra.ph/SEIKO-CURVED-150-SENSITY-06-16",
+                  "SEIKO CURVED 1.50 POLARIZED": "https://telegra.ph/SEIKO-CURVED-150-POLARIZED-06-16",
+                  "Монофокал линзаларга қайтиш": "Монофокал линзалар Seiko",
+                  "Бош менюга қайтиш":"Бош менюга ўтиш"
+                }
+              },
+              "Линзаларга қайтиш SEIKO":"Seiko кўзойнак линзалари",
+              "Бош менюга қайтиш":"Бош менюга ўтиш"
+            }
+          },
+          "Прогрессив линзалар Seiko": {
+            "message": "",
+            "value": {
+              "SEIKO PRIME X & PRIME XCEED": {
+                "message": "https://telegra.ph/SEIKO-PRIME-X--PRIME-XCEED-06-17",
+                "value": {
+                  "SEIKO PRIME X & PRIME XCEED 1.74": "https://telegra.ph/SEIKO-PRIME-X--PRIME-XCEED-174-06-17",
+                  "SEIKO PRIME X & PRIME XCEED 1.67": " https://telegra.ph/SEIKO-PRIME-X--PRIME-XCEED-167-06-17",
+                  "SEIKO PRIME X & PRIME XCEED 1.67 SENSITY™": " https://telegra.ph/SEIKO-PRIME-X--PRIME-XCEED-167-SENSITY-06-17",
+                  "SEIKO PRIME X & PRIME XCEED TRIBRID™": " https://telegra.ph/SEIKO-PRIME-X--PRIME-XCEED-TRIBRID-06-17",
+                  "SEIKO PRIME X & PRIME XCEED 1.67 POLARTHIN": " https://telegra.ph/SEIKO-PRIME-X--PRIME-XCEED-167-POLARTHIN-06-17",
+                  "SEIKO PRIME X & PRIME XCEED 1.60": " https://telegra.ph/SEIKO-PRIME-X--PRIME-XCEED-160-06-17",
+                  "SEIKO PRIME X & PRIME XCEED 1.60 SENSITY™": "https://telegra.ph/SEIKO-PRIME-X--PRIME-XCEED-160-SENSITY-06-17",
+                  "SEIKO PRIME X & PRIME XCEED 1.60 POLARTHIN": " https://telegra.ph/SEIKO-PRIME-X--PRIME-XCEED-160-POLARTHIN-06-17",
+                  "SEIKO PRIME X & PRIME XCEED 1.50": " https://telegra.ph/SEIKO-PRIME-X--PRIME-XCEED-150-06-17",
+                  "SEIKO PRIME X & PRIME XCEED 1.50 SENSITY™": "https://telegra.ph/SEIKO-PRIME-X--PRIME-XCEED-150-SENSITY-06-17",
+                  "SEIKO PRIME X & PRIME XCEED 1.50 POLARIZED": " https://telegra.ph/SEIKO-PRIME-X--PRIME-XCEED-150-POLARIZED-06-17",
+                  "Прогрессив линзаларга қайтиш": "Прогрессив линзалар Seiko",
+                  "Бош менюга қайтиш":"Бош менюга ўтиш"
+                }
+              },
+              "SEIKO BRILLIANCE": {
+                "message": " https://telegra.ph/SEIKO-BRILLIANCE-06-24",
+                "value": {
+                  "SEIKO BRILLIANCE 1.74": "https://telegra.ph/SEIKO-BRILLIANCE-174-06-24",
+                  "SEIKO BRILLIANCE 1.67": "https://telegra.ph/SEIKO-BRILLIANCE-167-06-24",
+                  "SEIKO BRILLIANCE 1.67 SENSITY™": " https://telegra.ph/SEIKO-BRILLIANCE-167-SENSITY-06-24",
+                  "SEIKO BRILLIANCE 1.60": " https://telegra.ph/SEIKO-BRILLIANCE-160-06-24",
+                  "SEIKO BRILLIANCE 1.60 SENSITY™": "https://telegra.ph/SEIKO-BRILLIANCE-160-SENSITY-06-24",
+                  "SEIKO BRILLIANCE 1.50": " https://telegra.ph/SEIKO-BRILLIANCE-150-06-24",
+                  "SEIKO BRILLIANCE 1.50 SENSITY™": "https://telegra.ph/SEIKO-BRILLIANCE-150-SENSITY-06-24",
+                  "Прогрессив линзаларга қайтиш": "Прогрессив линзалар Seiko",
+                  "Бош менюга қайтиш":"Бош менюга ўтиш"
+                }
+              },
+              "SEIKO SUPERIOR XCEL": {
+                "message": " https://telegra.ph/SEIKO-SUPERIOR-XCEL-06-17",
+                "value": {
+                  "SEIKO SUPERIOR XCEL 1.74": "https://telegra.ph/SEIKO-SUPERIOR-XCEL-174-06-17",
+                  "SEIKO SUPERIOR XCEL 1.67": "https://telegra.ph/SEIKO-SUPERIOR-XCEL-167-06-17",
+                  "SEIKO SUPERIOR XCEL 1.67 SENSITY™": " https://telegra.ph/SEIKO-SUPERIOR-XCEL-167-SENSITY-06-17",
+                  "SEIKO SUPERIOR XCEL 1.67 POLARTHIN": " https://telegra.ph/SEIKO-SUPERIOR-XCEL-167-POLARTHIN-06-17",
+                  "SEIKO SUPERIOR XCEL TRIBRID™": " https://telegra.ph/SEIKO-SUPERIOR-XCEL-TRIBRID-06-17",
+                  "SEIKO SUPERIOR XCEL 1.60": " https://telegra.ph/SEIKO-SUPERIOR-XCEL-160-06-17",
+                  "SEIKO SUPERIOR XCEL 1.60 SENSITY™": "https://telegra.ph/SEIKO-SUPERIOR-XCEL-160-SENSITY-06-17",
+                  "SEIKO SUPERIOR XCEL 1.60 POLARTHIN": " https://telegra.ph/SEIKO-SUPERIOR-XCEL-160-POLARTHIN-06-17",
+                  "SEIKO SUPERIOR XCEL 1.50": " https://telegra.ph/SEIKO-SUPERIOR-XCEL-150-06-17",
+                  "SEIKO SUPERIOR XCEL 1.50 SENSITY": "https://telegra.ph/SEIKO-SUPERIOR-XCEL-150-SENSITY-06-17",
+                  "SEIKO SUPERIOR XCEL 1.50 POLARIZED": "https://telegra.ph/SEIKO-SUPERIOR-XCEL-150-POLARIZED-06-17",
+                  "Прогрессив линзаларга қайтиш": "Прогрессив линзалар Seiko",
+                  "Бош менюга қайтиш":"Бош менюга ўтиш"
+                }
+              },
+              "SEIKO EMBLEM XTRAWIDE": {
+                "message": " https://telegra.ph/SEIKO-EMBLEM-XTRAWIDE-06-17",
+                "value": {
+                  "SEIKO EMBLEM XTRAWIDE 1.67": " https://telegra.ph/SEIKO-EMBLEM-XTRAWIDE-167-06-17",
+                  "SEIKO EMBLEM XTRAWIDE 1.67 SENSITY™": " https://telegra.ph/SEIKO-EMBLEM-XTRAWIDE-167-SENSITY-06-17",
+                  "SEIKO EMBLEM XTRAWIDE 1.67 POLARTHIN": " https://telegra.ph/SEIKO-EMBLEM-XTRAWIDE-167-POLARTHIN-06-17",
+                  "SEIKO EMBLEM XTRAWIDE TRIBRID™": " https://telegra.ph/SEIKO-EMBLEM-XTRAWIDE-TRIBRID-06-17",
+                  "SEIKO EMBLEM XTRAWIDE 1.60": "https://telegra.ph/SEIKO-EMBLEM-XTRAWIDE-160-06-17",
+                  "SEIKO EMBLEM XTRAWIDE 1.60 SENSITY™": " https://telegra.ph/SEIKO-EMBLEM-XTRAWIDE-160-SENSITY-06-17",
+                  "SEIKO EMBLEM XTRAWIDE 1.60 POLARTHIN": " https://telegra.ph/SEIKO-EMBLEM-XTRAWIDE-160-POLARTHIN-06-17",
+                  "SEIKO EMBLEM XTRAWIDE 1.50": "https://telegra.ph/SEIKO-EMBLEM-XTRAWIDE-150-06-17",
+                  "SEIKO EMBLEM XTRAWIDE 1.50 SENSITY™": " https://telegra.ph/SEIKO-EMBLEM-XTRAWIDE-150-SENSITY-06-17",
+                  "SEIKO EMBLEM XTRAWIDE 1.50 POLARIZED": " https://telegra.ph/SEIKO-EMBLEM-XTRAWIDE-150-POLARIZED-06-17",
+                  "Прогрессив линзаларга қайтиш": "Прогрессив линзалар Seiko",
+                  "Бош менюга қайтиш":"Бош менюга ўтиш"
+                }
+              },
+              "SEIKO SYNERGY XTRA": {
+                "message": "https://telegra.ph/SEIKO-SYNERGY-XTRA-06-17",
+                "value": {
+                  "SEIKO SYNERGY XTRA 1.60": "https://telegra.ph/SEIKO-SYNERGY-XTRA-160-06-17",
+                  "SEIKO SYNERGY XTRA 1.60 SENSITY™": "https://telegra.ph/SEIKO-SYNERGY-XTRA-160-SENSITY-06-17",
+                  "SEIKO SYNERGY XTRA 1.60 POLARTHIN": "https://telegra.ph/SEIKO-SYNERGY-XTRA-160-POLARTHIN-06-17",
+                  "SEIKO SYNERGY XTRA TRIBRID™": "https://telegra.ph/SEIKO-SYNERGY-XTRA-TRIBRID-06-17",
+                  "SEIKO SYNERGY XTRA 1.67": " https://telegra.ph/SEIKO-SYNERGY-XTRA-167-06-17",
+                  "SEIKO SYNERGY XTRA 1.67 SENSITY™": "https://telegra.ph/SEIKO-SYNERGY-XTRA-167-SENSITY-06-17",
+                  "SEIKO SYNERGY XTRA 1.67 POLARTHIN": " https://telegra.ph/SEIKO-SYNERGY-XTRA-167-POLARTHIN-06-17",
+                  "SEIKO SYNERGY XTRA 1.74": " https://telegra.ph/SEIKO-SYNERGY-XTRA-174-06-17",
+                  "Прогрессив линзаларга қайтиш": "Прогрессив линзалар Seiko",
+                  "Бош менюга қайтиш":"Бош менюга ўтиш"
+                }
+              },
+              "SEIKO VISION X": {
+                "message": "https://telegra.ph/SEIKO-VISION-X-06-17",
+                "value": {
+                  "SEIKO VISION X 1.50": " https://telegra.ph/SEIKO-VISION-X-150-06-17",
+                  "SEIKO VISION X 1.50 SENSITY™": " https://telegra.ph/SEIKO-VISION-X-150-SENSITY-06-17",
+                  "SEIKO VISION X 1.50 POLARIZED": " https://telegra.ph/SEIKO-VISION-X-150-POLARIZED-06-17",
+                  "SEIKO VISION X 1.60": " https://telegra.ph/SEIKO-VISION-X-160-06-17",
+                  "SEIKO VISION X 1.60 SENSITY™": " https://telegra.ph/SEIKO-VISION-X-160-SENSITY-06-17",
+                  "SEIKO VISION X 1.60 POLARTHIN": " https://telegra.ph/SEIKO-VISION-X-160-POLARTHIN-06-17",
+                  "SEIKO VISION X 1.67": " https://telegra.ph/SEIKO-VISION-X-167-06-17",
+                  "SEIKO VISION X 1.67 SENSITY™": "https://telegra.ph/SEIKO-VISION-X-167-SENSITY-06-17",
+                  "Прогрессив линзаларга қайтиш": "Прогрессив линзалар Seiko",
+                  "Бош менюга қайтиш":"Бош менюга ўтиш"
+                }
+              },
+              "Ҳайдовчилик учун  линзалар SEIKO DRIVE X": {
+                "message": " https://telegra.ph/DRIVE-X-06-17",
+                "value": {
+                  "SEIKO DRIVE X 1.67": " https://telegra.ph/SEIKO-DRIVE-X-167-06-16",
+                  "SEIKO DRIVE X 1.67 SENSITY™": " https://telegra.ph/SEIKO-DRIVE-X-167-SENSITY-06-16",
+                  "SEIKO DRIVE X 1.67 POLARTHIN": "https://telegra.ph/SEIKO-DRIVE-X-167-POLARTHIN-06-16",
+                  "SEIKO DRIVE X TRIBRID™": "https://telegra.ph/SEIKO-DRIVE-X-TRIBRID-06-16",
+                  "SEIKO DRIVE X 1.60": "https://telegra.ph/SEIKO-DRIVE-X-160-06-16",
+                  "SEIKO DRIVE X 1.60 SENSITY™": " https://telegra.ph/SEIKO-DRIVE-X-160-SENSITY-06-16",
+                  "SEIKO DRIVE X 1.60 POLARTHIN": "https://telegra.ph/SEIKO-DRIVE-X-160-POLARTHIN-06-16",
+                  "SEIKO DRIVE X 1.50": " https://telegra.ph/SEIKO-DRIVE-X-150-06-16",
+                  "SEIKO DRIVE X 1.50 SENSITY™": " https://telegra.ph/SEIKO-DRIVE-X-150-SENSITY-06-16",
+                  "SEIKO DRIVE X 1.50 POLARIZED": "https://telegra.ph/SEIKO-DRIVE-X-150-POLARIZED-06-16",
+                  "Прогрессив линзаларга қайтиш": "Прогрессив линзалар Seiko",
+                  "Бош менюга қайтиш":"Бош менюга ўтиш"
+                }
+              },
+              "Спортга мўлжалланган линзалар SEIKO CURVED X": {
+                "message": "https://telegra.ph/SEIKO-CURVED-X-06-17",
+                "value": {
+                  "SEIKO CURVED X 1.67": " https://telegra.ph/SEIKO-CURVED-X-167-06-16",
+                  "SEIKO CURVED X 1.67 SENSITY™": " https://telegra.ph/SEIKO-CURVED-X-167-SENSITY-06-16",
+                  "SEIKO CURVED X 1.67 POLARTHIN": "https://telegra.ph/SEIKO-CURVED-X-167-POLARTHIN-06-16",
+                  "SEIKO CURVED X TRIBRID™": " https://telegra.ph/SEIKO-CURVED-X-TRIBRID-06-16",
+                  "SEIKO CURVED X 1.60": " https://telegra.ph/SEIKO-CURVED-X-160-06-16",
+                  "SEIKO CURVED X 1.60 SENSITY™": " https://telegra.ph/SEIKO-CURVED-X-160-SENSITY-06-16",
+                  "SEIKO CURVED X 1.60 POLARIZED": "https://telegra.ph/SEIKO-CURVED-X-160-POLARIZED-06-16",
+                  "SEIKO CURVED X 1.50": " https://telegra.ph/SEIKO-CURVED-X-150-06-16",
+                  "SEIKO CURVED X 1.50 SENSITY™": " https://telegra.ph/SEIKO-CURVED-X-150-SENSITY-06-16",
+                  "SEIKO CURVED X 1.50 POLARIZED": " https://telegra.ph/SEIKO-CURVED-X-150-POLARIZED-06-16",
+                  "Прогрессив линзаларга қайтиш": "Прогрессив линзалар Seiko",
+                  "Бош менюга қайтиш":"Бош менюга ўтиш"
+                }
+              },
+              "Офис линзалари SEIKO INDOOR 100/200": {
+                "message": "https://telegra.ph/SEIKO-INDOOR-100--200-06-17",
+                "value": {
+                  "SEIKO INDOOR 100 / 200 1.74": "https://telegra.ph/SEIKO-INDOOR-100--200-174-06-17",
+                  "SEIKO INDOOR 100 / 200 1.67": " https://telegra.ph/SEIKO-INDOOR-100--200-167-06-17",
+                  "SEIKO INDOOR 100 / 200 1.60": " https://telegra.ph/SEIKO-INDOOR-100--200-160-06-17",
+                  "SEIKO INDOOR 100 / 200 1.50": " https://telegra.ph/SEIKO-INDOOR-100--200-150-06-17",
+                  "Прогрессив линзаларга қайтиш": "Прогрессив линзалар Seiko",
+                  "Бош менюга қайтиш":"Бош менюга ўтиш"
+                }
+              },
+              "Офис линзалари SEIKO INDOOR PC": {
+                "message": "https://telegra.ph/SEIKO-INDOOR-PC-06-17",
+                "value": {
+                  "SEIKO INDOOR PC 1.74": " https://telegra.ph/SEIKO-INDOOR-PC-174-06-17",
+                  "SEIKO INDOOR PC 1.67": " https://telegra.ph/SEIKO-INDOOR-PC-167-06-17",
+                  "SEIKO INDOOR PC TRIBRID™": " https://telegra.ph/SEIKO-INDOOR-PC-TRIBRID-06-17",
+                  "SEIKO INDOOR PC 1.60": "https://telegra.ph/SEIKO-INDOOR-PC-160-06-17",
+                  "SEIKO INDOOR PC 1.50": "https://telegra.ph/SEIKO-INDOOR-PC-150-06-17",
+                  "Прогрессив линзаларга қайтиш": "Прогрессив линзалар Seiko",
+                  "Бош менюга қайтиш":"Бош менюга ўтиш"
+                }
+              },
+              "Seiko линзаларига қайтиш":"Seiko кўзойнак линзалари",
+              "Бош менюга қайтиш":"Бош менюга ўтиш"
+            }
+
+          },
+          "Қўшимча маълумот SEIKO": {
+            "message": "",
+            "value": {
+              "SEIKO қопламалари": {
+                "message": "",
+                "value": {
+                  "SEIKO SUPERCLEANCOAT (SCC)": "https://telegra.ph/SEIKO-SUPERCLEANCOAT-SCC-06-18",
+                  "SEIKO SUPERRESISTANTCOAT (SRC) / -UV": "https://telegra.ph/SEIKO-SUPERRESISTANTCOAT-SRC---UV-06-18",
+                  "SEIKO SUPERRESISTANTBLUE (SRB) / -UV": "https://telegra.ph/SEIKO-SUPERRESISTANTBLUE-SRB---UV-06-18",
+                  "SEIKO ROADCLEARCOAT (RCC)": "https://telegra.ph/SEIKO-ROADCLEARCOAT-06-18",
+                  "Seiko ҳақида батафсил маълумотга қайтиш": "Қўшимча маълумот SEIKO",
+                  "Бош менюга қайтиш":"Бош менюга ўтиш"
+                }
+              },
+              "Кўзойнак линзалари материаллари SEIKO": {
+                "message": "",
+                "value": {
+                  "TRIBRID™": "https://telegra.ph/TRIBRID-06-18",
+                  "Seiko ҳақида батафсил маълумотга қайтиш": "Қўшимча маълумот SEIKO",
+                  "Бош менюга қайтиш":"Бош менюга ўтиш"
+                }
+              },
+              "SEIKO технологиялари": {
+                "message": "",
+                "value": {
+                  "SEIKO SENSITY™": "https://telegra.ph/SEIKO-SENSITY-06-18",
+                  "SEIKO POLARTHIN": "https://telegra.ph/SEIKO-POLARTHIN-06-18",
+                  "Seiko ҳақида батафсил маълумотга қайтиш": "Қўшимча маълумот SEIKO",
+                  "Бош менюга қайтиш":"Бош менюга ўтиш"
+                }
+              },
+              "Линзаларга қайтиш SEIKO":"Seiko кўзойнак линзалари",
+              "Бош менюга қайтиш":"Бош менюга ўтиш"
+            }
+
+          },
+          "Линзалар ҳақидаги маълумотларга қайтиш":"Линзалар ҳақида маълумот",
+          "Бош менюга қайтиш":"Бош менюга қайтиш"
+        }
+      },
+      "Star Vision кўзойнак линзалари": {
+        "message": "",
+        "value": {
+          "Монофокал линзалар Star Vision": {
+            "message": "",
+            "value": {
+              "Омбор монофокал линзалари": {
+                "message": "",
+                "value": {
+                  "Jet Star 1.74 AS HSC": " https://telegra.ph/Jet-Star-174-AS-HSC-06-21",
+                  "Jet Star 1.67 AS HSC": " https://telegra.ph/Jet-Star-167-AS-HSC-06-21",
+                  "Jet Star 1.60 AS HSC": " https://telegra.ph/Jet-Star-160-AS-HSC-06-21",
+                  "Jet Star 1.60 HSC": "https://telegra.ph/Jet-Star-160-HSC-06-21",
+                  "Jet Star Sun 1.60 HSC inside": " https://telegra.ph/Jet-Star-Sun-160-HSC-inside-06-21",
+                  "Jet Star Poly HSC": "https://telegra.ph/Jet-Star-Poly-HSC-06-21",
+                  "Jet Star 1.50 HSC": "https://telegra.ph/Jet-Star-150-HSC-06-21",
+                  "Jet Star 1.50 HC": "https://telegra.ph/Jet-Star-150-HC-06-21",
+                  "Jet Star 1.50 UC": " https://telegra.ph/Jet-Star-150-UC-06-21",
+                  "Jet Star 1.50 Photo HSC": " https://telegra.ph/Jet-Star-150-Photo-HSC-06-21",
+                  "Jet Star Sun 1.50 HSC inside": " https://telegra.ph/Jet-Star-Sun-150-HSC-inside-06-21",
+                  "Jet Star Sun 1.50 UC": " https://telegra.ph/Jet-Star-Sun-150-UC-06-21",
+                  "Монофокал линзаларга қайтиш Star Vision": "Монофокал линзалар Star Vision",
+                  "Бош менюга қайтиш":"Бош менюга ўтиш"
+                }
+              },
+              "Рецептурали монофокал линзалар": {
+                "message": "",
+                "value": {
+                  "Jet Star 1.67 AS HSC": "https://telegra.ph/Jet-Star-167-AS-HSC-06-21-2",
+                  "Jet Star 1.60 AS HSC": "https://telegra.ph/Jet-Star-160-AS-HSC-06-21-2",
+                  "Jet Star 1.60 HSC": " https://telegra.ph/Jet-Star-160-HSC-06-21-2",
+                  "Jet Star 1.60 HSC Transitions® 7": "https://telegra.ph/Jet-Star-160-HSC-Transitions-7-06-21",
+                  "Jet Star Activ 1.60": " https://telegra.ph/Jet-Star-Activ-160-06-21",
+                  "Jet Star Trivex": "https://telegra.ph/Jet-Star-Trivex-06-21",
+                  "Jet Star 1.50": "https://telegra.ph/Jet-Star-150-06-21",
+                  "Jet Star 1.50 Transitions 7": "https://telegra.ph/Jet-Star-150-Transitions-7-06-21",
+                  "Jet Star Active 1.50": "https://telegra.ph/Jet-Star-Activ-150-06-21",
+                  "Монофокал линзаларга қайтиш Star Vision": "Монофокал линзалар Star Vision",
+                  "Бош менюга қайтиш":"Бош менюга ўтиш"
+                }
+              },
+              "Таянч эгриликка эга рецептурали монофокал линзалар": {
+                "message": "",
+                "value": {
+                  "Jet Star 1.60 AS BC 6/8": "https://telegra.ph/Jet-Star-160-AS-BC-68-06-21",
+                  "Jet Star Activ 1.60 AS BC 6/8": " https://telegra.ph/Jet-Star-Activ-160-AS-BC-68-06-21",
+                  "Jet Star 1.50 AS BC 6/8": " https://telegra.ph/Jet-Star-150-AS-BC-68-06-21",
+                  "Jet Star Activ 1.50 AS BC 6/8": " https://telegra.ph/Jet-Star-Activ-150-AS-BC-68-06-21",
+                  "Монофокал линзаларга қайтиш Star Vision": "Монофокал линзалар Star Vision",
+                  "Бош менюга қайтиш":"Бош менюга ўтиш"
+                }
+              },
+              "Star Vision линзаларига қайтиш": "Star Vision кўзойнак линзалари",
+              "Бош менюга қайтиш":"Бош менюга ўтиш"
+            }
+          },
+          "Прогрессив линзалар Star Vision": {
+            "message": "",
+            "value": {
+              "Прогрессив линзалар StarVision": {
+                "message": "",
+                "value": {
+                  "SENSO 1.67": "https://telegra.ph/SENSO-167-06-21",
+                  "SENSO Basic 1.67": " https://telegra.ph/SENSO-Basic-167-06-21",
+                  "SENSO 1.60": "https://telegra.ph/SENSO-160-06-21",
+                  "SENSO Basic 1.60": "https://telegra.ph/SENSO-Basic-160-06-21",
+                  "SENSO 1.60 Transitions 7": "https://telegra.ph/SENSO-160-Transitions-7-06-21",
+                  "SENSO Basic 1.60 Transitions 7": " https://telegra.ph/SENSO-Basic-160-Transitions-7-06-21",
+                  "SENSO Activ 1.60": " https://telegra.ph/SENSO-Activ-160-06-21",
+                  "SENSO Basic Activ 1.60": "https://telegra.ph/SENSO-Basic-Activ-160-06-21",
+                  "SENSO Trivex": "https://telegra.ph/SENSO-Trivex-06-21",
+                  "SENSO 1.50": "https://telegra.ph/SENSO-150-06-21",
+                  "SENSO Basic 1.50": " https://telegra.ph/SENSO-Basic-150-06-21",
+                  "SENSO 1.50 Transitions 7": "https://telegra.ph/SENSO-150-Transitions-7-06-21",
+                  "SENSO Basic 1.50 Transitions 7": "https://telegra.ph/SENSO-Basic-150-Transitions-7-06-21",
+                  "SENSO Activ 1.50": " https://telegra.ph/SENSO-Activ-150-06-21",
+                  "SENSO Basic Activ 1.50": "https://telegra.ph/SENSO-Basic-Activ-150-06-21",
+                  "Прогрессив линзаларга қайтиш Star Vision": "Прогрессив линзалар Star Vision",
+                  "Бош менюга қайтиш":"Бош менюга ўтиш"
+                }
+              },
+              "Асосий егрилик билан прогрессив линзалар": {
+                "message": "",
+                "value": {
+                  "SENSO 1.60 BC6": "https://telegra.ph/SENSO-160-BC6-06-21",
+                  "SENSO 1.60 Transitions 7 BC": " https://telegra.ph/SENSO-160-Transitions-7-BC6-06-21",
+                  "SENSO 1.50 BC6": "https://telegra.ph/SENSO-150-BC6-06-21",
+                  "SENSO 1.50 Transitions 7 BC6": " https://telegra.ph/SENSO-150-Transitions-BC6-06-21",
+                  "SENSO Activ 1.50 BC6": "https://telegra.ph/SENSO-Activ-150-BC6-06-22",
+                  "Star Vision прогрессив линзаларига қайтиш": "Прогрессив линзалар Star Vision",
+                  "Бош менюга қайтиш":"Бош менюга ўтиш"
+                }
+              },
+              "Ўқиш ва компютерда ишлаш учун прогрессив линзалар": {
+                "message": "",
+                "value": {
+                  "Office HD 1.60": " https://telegra.ph/Office-HD-160-06-22",
+                  "Office HD 1.50": " https://telegra.ph/Office-HD-150-06-22",
+                  "Star Vision прогрессив линзаларига қайтиш": "Прогрессив линзалар Star Vision",
+                  "Бош менюга қайтиш":"Бош менюга ўтиш"
+                }
+              },
+              "Star Vision линзаларига қайтиш": "Star Vision кўзойнак линзалари",
+              "Бош менюга қайтиш":"Бош менюга ўтиш"
+            }
+          },
+          "Биасфeрик линзалар Star Vision": {
+            "message": "",
+            "value": {
+              "Jet Star C28 1.50": " https://telegra.ph/Jet-Star-C28-150-06-22",
+              "Star Vision линзаларига қайтиш": "Star Vision кўзойнак линзалари",
+              "Бош менюга қайтиш":"Бош менюга ўтиш"
+            }
+          },
+          "Қўшимча маълумот": {
+            "message": "",
+            "value": {
+              "Тонировка ва ойна қопламалари": "https://telegra.ph/Tonirovka-va-ojnali-%D2%9Boplamalar-06-22",
+              "RX линзалари учун қопламалар ва тонировка": "https://telegra.ph/RX-linzalari-uchun-%D2%9Boplamalar-va-tonirovka-06-22",
+              "Вариантлар, қопламалар ва материаллар": "https://telegra.ph/Variantlar-%D2%9Boplamalar-va-materiallar-06-22",
+              "Star Vision материаллари": "https://telegra.ph/Materiallar-06-22",
+              "Star Vision линзаларига қайтиш": "Star Vision кўзойнак линзалари",
+              "Бош менюга қайтиш":"Бош менюга ўтиш"
+            }
+          },
+          "Линзалар ҳақидаги маълумотларга қайтиш":"Линзалар ҳақида маълумот",
+          "Бош менюга қайтиш":"Бош менюга ўтиш"
+        }
+      },
+      "Бош менюга қайтиш":"Бош менюга ўтиш"
+
+	  
+    }
+  }
+}

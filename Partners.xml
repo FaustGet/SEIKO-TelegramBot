@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Partners>
+	<Partner Name="Наше предприятие" Code="УТ-00000001"/>
+	<Partner Name="Неизвестный партнер" Code="УТ-00000002"/>
+	<Partner Name="Розничный покупатель" Code="УТ-00000003"/>
+	<Partner Name="001- TOO Vision Trend" Code="0001       "/>
+	<Partner Name="309 - Омега Оптика" Code="0309       "/>
+	<Partner Name="310 - Навои Оптика" Code="0310       "/>
+	<Partner Name="311 - Vision Care алайский" Code="0311       "/>
+	<Partner Name="312 - Vision Care ойбек" Code="0312       "/>
+	<Partner Name="333 -Ташкент VT" Code="0333       "/>
+	<Partner Name="351- La Perla" Code="0351       "/>
+	<Partner Name="352 - Милано Оптика" Code="0352       "/>
+	<Partner Name="353 -  Мир очкарика" Code="0353       "/>
+	<Partner Name="390 - Рaris optica" Code="0390       "/>
+	<Partner Name="391 - Paris Optical new" Code="0391       "/>
+	<Partner Name="400 - Bliss оптика" Code="0400       "/>
+	<Partner Name="401- Оптика Flex" Code="0401       "/>
+	<Partner Name="402 - Аскар ака (частный мастер)" Code="0402       "/>
+	<Partner Name="403 - MPO Оптика" Code="0403       "/>
+	<Partner Name="404 - Cardio Farm" Code="0404       "/>
+	<Partner Name="405 - 21 Век" Code="405        "/>
+	<Partner Name="406 - Brux" Code="0406       "/>
+	<Partner Name="407 - Inter optica" Code="407        "/>
+	<Partner Name="408 - Оптика Fabrissio Самарканд" Code="0408       "/>
+	<Partner Name="409 - Nazar Optical" Code="0409       "/>
+	<Partner Name="410 - Центр микрохирургии глаза" Code="0410       "/>
+	<Partner Name="411 - Шох Оптика" Code="0411       "/>
+	<Partner Name="412 - Prof Оптик" Code="0412       "/>
+	<Partner Name="413 - Оптик мастер" Code="0413       "/>
+	<Partner Name="414 - Golden optica" Code="0414       "/>
+	<Partner Name="415 - Grand оптика" Code="0415       "/>
+	<Partner Name="54 - частное лицо" Code="54         "/>
+	<Partner Name="002 - KRUPON GmbH" Code="55         "/>
+	<Partner Name="ФС-1" Code="56         "/>
+	<Partner Name="ФС-10" Code="65         "/>
+	<Partner Name="ФС-11" Code="66         "/>
+	<Partner Name="ФС-12" Code="67         "/>
+	<Partner Name="ФС-13" Code="68         "/>
+	<Partner Name="ФС-14" Code="69         "/>
+	<Partner Name="ФС-15" Code="70         "/>
+	<Partner Name="ФС-16" Code="71         "/>
+	<Partner Name="ФС-17" Code="72         "/>
+	<Partner Name="ФС-18" Code="73         "/>
+	<Partner Name="ФС-19" Code="74         "/>
+	<Partner Name="ФС-2" Code="57         "/>
+	<Partner Name="ФС-20" Code="75         "/>
+	<Partner Name="ФС-21" Code="76         "/>
+	<Partner Name="ФС-22" Code="77         "/>
+	<Partner Name="ФС-23" Code="78         "/>
+	<Partner Name="ФС-24" Code="79         "/>
+	<Partner Name="ФС-25" Code="80         "/>
+	<Partner Name="ФС-26" Code="81         "/>
+	<Partner Name="ФС-27" Code="82         "/>
+	<Partner Name="ФС-28" Code="83         "/>
+	<Partner Name="ФС-29" Code="84         "/>
+	<Partner Name="ФС-3" Code="58         "/>
+	<Partner Name="ФС-30" Code="85         "/>
+	<Partner Name="ФС-31" Code="86         "/>
+	<Partner Name="ФС-32" Code="87         "/>
+	<Partner Name="ФС-33" Code="88         "/>
+	<Partner Name="ФС-34" Code="89         "/>
+	<Partner Name="ФС-35" Code="90         "/>
+	<Partner Name="ФС-36" Code="91         "/>
+	<Partner Name="ФС-37" Code="92         "/>
+	<Partner Name="ФС-38" Code="93         "/>
+	<Partner Name="ФС-39" Code="94         "/>
+	<Partner Name="ФС-4" Code="59         "/>
+	<Partner Name="ФС-40" Code="95         "/>
+	<Partner Name="ФС-41" Code="96         "/>
+	<Partner Name="ФС-42" Code="97         "/>
+	<Partner Name="ФС-43" Code="98         "/>
+	<Partner Name="ФС-44" Code="99         "/>
+	<Partner Name="ФС-45" Code="10         "/>
+	<Partner Name="ФС-46" Code="11         "/>
+	<Partner Name="ФС-47" Code="12         "/>
+	<Partner Name="ФС-48" Code="13         "/>
+	<Partner Name="ФС-49" Code="14         "/>
+	<Partner Name="ФС-5" Code="60         "/>
+	<Partner Name="ФС-50" Code="15         "/>
+	<Partner Name="ФС-51" Code="16         "/>
+	<Partner Name="ФС-52" Code="17         "/>
+	<Partner Name="ФС-53" Code="18         "/>
+	<Partner Name="ФС-54" Code="19         "/>
+	<Partner Name="ФС-55" Code="20         "/>
+	<Partner Name="ФС-56" Code="21         "/>
+	<Partner Name="ФС-57" Code="22         "/>
+	<Partner Name="ФС-58" Code="23         "/>
+	<Partner Name="ФС-59" Code="24         "/>
+	<Partner Name="ФС-6" Code="61         "/>
+	<Partner Name="ФС-60" Code="25         "/>
+	<Partner Name="ФС-61" Code="26         "/>
+	<Partner Name="ФС-62" Code="27         "/>
+	<Partner Name="ФС-63" Code="28         "/>
+	<Partner Name="ФС-64" Code="29         "/>
+	<Partner Name="ФС-65" Code="30         "/>
+	<Partner Name="ФС-66" Code="31         "/>
+	<Partner Name="ФС-67" Code="32         "/>
+	<Partner Name="ФС-68" Code="33         "/>
+	<Partner Name="ФС-69" Code="34         "/>
+	<Partner Name="ФС-7" Code="62         "/>
+	<Partner Name="ФС-8" Code="63         "/>
+	<Partner Name="ФС-9" Code="64         "/>
+	<Partner Name="Vision Trend (служебн)" Code="00-00000001"/>
+	<Partner Name="416 - S2L оптика" Code="0416       "/>
+	<Partner Name="300 - Зарплата" Code="00-00000002"/>
+	<Partner Name="003 - FKS Trade" Code="003        "/>
+	<Partner Name="800 - Расходные материалы" Code="00-00000003"/>
+	<Partner Name="220 - Таможенная очистка" Code="00-00000004"/>
+	<Partner Name="1000 - Расходы банк" Code="00-00000005"/>
+	<Partner Name="100 - Расходы на командировки" Code="00-00000006"/>
+	<Partner Name="1500 - Прочие расходы и услуги" Code="00-00000007"/>
+	<Partner Name="900 - Представительские расходы" Code="00-00000008"/>
+	<Partner Name="600 - Телефон и интернет" Code="00-00000009"/>
+	<Partner Name="1400 - Продукты питания" Code="00-00000010"/>
+	<Partner Name="500 - Транспортные расходы" Code="00-00000011"/>
+	<Partner Name="400 - Аренда офиса" Code="00-00000012"/>
+	<Partner Name="004 - Обмен валют" Code="00-00000013"/>
+	<Partner Name="700 - Основные средства" Code="00-00000014"/>
+	<Partner Name="417 - Optical Pro (Fabricio)" Code="00-00000015"/>
+	<Partner Name="418 - Мастер оптик Янгиер" Code="00-00000016"/>
+	<Partner Name="419 - Ташкент optical" Code="00-00000017"/>
+	<Partner Name="420 - Оптика &quot;GEO&quot;" Code="00-00000018"/>
+	<Partner Name="421 - Оптика Бухара" Code="00-00000019"/>
+	<Partner Name="422 - Спортивный магазин Scott" Code="00-00000020"/>
+	<Partner Name="423 - Sunlight оптика" Code="00-00000021"/>
+	<Partner Name="424 - Grand Level Optics" Code="00-00000022"/>
+	<Partner Name="425 - Osse (Бишкек)" Code="00-00000023"/>
+	<Partner Name="426 - Flora Med" Code="00-00000024"/>
+</Partners>
