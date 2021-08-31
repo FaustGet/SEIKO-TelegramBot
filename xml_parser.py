@@ -60,7 +60,6 @@ def get_Nomenclature(lens:str,list_keyb:dict,iter = 0):
 
 def ParseXml(S,C,keybrd,lang = "ru",iter=0):
     try:
-        print(lang)
         root_node = xml.parse('Stock.xml').getroot()
         list_lens = []
         list_keyb = {}
@@ -86,7 +85,6 @@ def ParseXml(S,C,keybrd,lang = "ru",iter=0):
 
 def ParseCS(S:str,C:str,keybrd,lang = "ru"):
     NewSphere,NewCylinder = getSphereCylinder(S,C)
-    print(lang)
     return ParseXml(NewSphere,NewCylinder,keybrd,lang)
 
 def add_new_order(order:dict):

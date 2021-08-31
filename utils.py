@@ -208,11 +208,15 @@ def get_stock_availability(message,lang = "ru",keyb = None,list_keyb ={}):
         message.text = message.text.replace("-0,00", "+0.00")
         message.text = message.text.replace(" 0,00", " +0.00") 
         message.text = message.text.replace(" 0.00", " +0.00")
+        if message.text[0:4] in ["0.00","0,00"]:
+            message.text = "+0.00" + message.text[4:]
+        if message.text[0:1] == "0":
+            message.text = "+0.00" + message.text[1:]
+        
         if " 0" in message.text:
             message.text = message.text.replace(" 0", " +0.00")
         if message.text == "0" or message.text == "0.00" or message.text == "0,00":
             message.text = "+0.00"
-           
 
         if re.match('^[+-]\d[,.]\d\d? [+-]\d[,.]\d\d?$',message.text):
             text = message.text.replace(",", ".")
@@ -407,6 +411,11 @@ def check_lens(message,lang):
         message.text = message.text.replace("-0,00", "+0.00")
         message.text = message.text.replace(" 0,00", " +0.00") 
         message.text = message.text.replace(" 0.00", " +0.00")
+        if message.text[0:4] in ["0.00","0,00"]:
+            message.text = "+0.00" + message.text[4:]
+        if message.text[0:1] == "0":
+            message.text = "+0.00" + message.text[1:]
+        
         if " 0" in message.text:
             message.text = message.text.replace(" 0", " +0.00")
         if message.text == "0" or message.text == "0.00" or message.text == "0,00":

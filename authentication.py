@@ -5,7 +5,6 @@ from dictionary import language
 def signin(login:str,pas:str,telegram_id:int,lang):
     try:
         user = db.users.find_one({"login":login,"pas":pas})
-        print(user)
         if user:
             db.auth_user.remove({"telegram_id":telegram_id})
             db.auth_user.insert_one({
